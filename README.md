@@ -1,3 +1,3 @@
 # hello-world
-my first repository
- this is a practice work, familiarising myself to GIT!
+my first repository\n
+ \nthis is a practice work, familiarising myself to GIT!
